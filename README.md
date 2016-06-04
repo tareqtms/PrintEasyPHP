@@ -1,6 +1,6 @@
 # PrintEasy for PHP
 
-PrintEasy class for PHP helps you to remove extra hassles while working with data arrays to print into html structure. Normally, you need to write some html and then use `<?php echo $someArray['Item'];?>` while printing any value from array.
+PrintEasy class for PHP helps you to get rid of the extra hassles while working with data arrays to print into html structure. Usually, you need to write some html and then use `<?php echo $someArray['Item'];?>` to print any value from array.
 By using this class you can simply build your html structure putting the array variables into `[...]` blocks and put that into the function to do the rest for you.
 
 ## Usage
